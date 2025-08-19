@@ -4,9 +4,9 @@ Mandrilandia Font
 Mandrilandia font, beta version.
 Under Development since 2016
 
-![Preview]([docs/Fake Tronco es Milei flyer for twitter just for fun.jpg](https://raw.githubusercontent.com/impallari/mandrilandia/refs/heads/main/docs/Fake%20Tronco%20es%20Milei%20flyer%20for%20twitter%20just%20for%20fun.jpg))
+![Preview](https://raw.githubusercontent.com/impallari/mandrilandia/refs/heads/main/docs/Fake%20Tronco%20es%20Milei%20flyer%20for%20twitter%20just%20for%20fun.jpg))
 
-![Lettering Sheet](docs/Mandrilandia Beta - v0070.png)
+![Lettering Sheet](https://raw.githubusercontent.com/impallari/mandrilandia/refs/heads/main/docs/Mandrilandia%20Beta%20-%20v0070.png)
 
 
 ## License
