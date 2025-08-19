@@ -1,0 +1,179 @@
+To Do:
+——————————————————————————————————————————————————
+
+LOWERCASES:
+- Testear otra version de /y mas fluida?
+- Hacer ligaturas: ff fl fi fy fu ft tf tt rt rf
+
+CAPS:
+- Mejorar X K Z N M
+- Test Swashes and Plain versions?
+
+NUMBERS:
+- 3, 5 y 7 bajarlos apenas
+- Normalize Color
+
+PUNCTUATION:
+- Add ¡! ¿?
+- Improve /comma angle
+
+Posibles Nombres:
+- Mandrilandia
+- Send Nudes
+- Spiffing
+- Lifelong
+- Fathering Feelings Fingernail
+- Willful 
+
+
+——————————————————————————————————————————————————
+Log:
+
+version 0051, 0052, 0053, 0054, 0055:
+- Lots of fine tunning to uppercases and lowercases
+
+version 0049, 0050:
+- Lots of lowercase fine tunning
+
+version 0048:
+- Testing a ligther master and some interpolation. Discarted
+
+version 0044, 0045, 0046, 0047:
+- Adding Numbers
+- Adding /ampersand
+
+version 0043:
+- Adding Punctuation
+
+version 0040, 0041, 0042:
+- Uppercase normalization
+
+version 0038, 0039:
+- Lots of lowercase fine-tunning
+
+version 0037:
+- Fixing spacing after scaling
+
+version 0034, 0035, 0036:
+- Fix vertical metrics and new scaling
+
+version 0033:
+- Adding /Y
+- Adding some temporal basic kerning
+
+version 0032:
+- Adding /Z
+
+version 0031:
+- Adding /V /W /X /comma
+
+version 0030:
+- Adding /U
+- New /J
+
+version 0029:
+- autospaced using zones. Still not completely satisfactory
+
+version 0028:
+- Lowerpase now autospaced (exploring parameters that match that manual spacing fitting)
+
+version 0027:
+- new /x
+
+version 0026:
+- Lots of lowercase fine-tunning
+
+version 0025:
+- Adding /M
+
+version 0024:
+- Improving /A 
+- Lowercase Harmonized
+
+version 0023:
+- Adding /G /K /S
+
+version 0022:
+- Adding /B
+
+version 0021:
+- Adding /C /D /P /R
+- New /A
+
+version 0020:
+- Adding /z
+
+version 0019:
+- Adding /x
+
+version 0018:
+- Adding /v /w
+
+version 0017:
+- Adding /Q /f
+
+version 0016:
+- Adding /T /t
+
+version 0015:
+- Adding /J /O /y
+
+version 0014:
+- Adding /q /j
+
+version 0013:
+- Adding /g
+
+version 0012:
+- Adding /E /F /H /I /L /p
+
+version 0011:
+- Adding /k /s
+
+version 0010:
+- Adding /A
+
+version 0009:
+- New /u and /b
+
+version 0008:
+- Adding /u /c /o
+- New /r 
+
+version 0007:
+- Adding /b
+- Making /e bolder, it looks ligther than the other letters
+
+version 0006:
+- Adding /a /d
+
+version 0005:
+- Make space narrow
+- Adding /e
+
+version 0004:
+- Adding /m /r /space
+
+version 0003:
+- Looks to wavy, reduce the waviness
+- Thin parts looks to thin, make bolder
+- Increased x-heigth
+- /i and /n: the top-right corner is to spiky, make it softer
+
+version 0002:
+- Increased x-heigth
+
+version 0001:
+- x-heigth looks to small, make taller
+- Looks to wide, make narrower
+
+version 0000:
+- Draw Initial /n /i /l /n
+- Increase spacing
+
+
+
+
+
+
+

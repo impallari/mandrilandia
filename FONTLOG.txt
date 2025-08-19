@@ -1,0 +1,28 @@
+FONTLOG for the Mandrilandia Font fonts
+
+This file provides detailed information on the Libre Baskerville Font Software.
+
+This information should be distributed along with the Libre Baskerville fonts and any derivative works.
+
+Basic Font Information:
+Mandrilandia is a new font under development by Pablo Impallari
+
+To contribute to the project contact Pablo Impallari at impallari@gmail.com
+
+ChangeLog
+
+In development on and off since 2016 March 11
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Pablo Impallari
+E: impallari@gmail.com
+W: http://www.impallari.com
+D: Designer
+
+
+
