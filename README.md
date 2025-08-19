@@ -4,11 +4,6 @@ Mandrilandia Font
 Mandrilandia font.
 Beta version, Under Development
 
-![Preview](https://raw.githubusercontent.com/impallari/mandrilandia/refs/heads/main/docs/Preview.jpg)
-
-![Lettering Sheet](https://raw.githubusercontent.com/impallari/mandrilandia/refs/heads/main/docs/Mandrilandia%20Beta%20-%20v0070.png)
-
-
 ## License
 
 - Mandrilandia is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)
